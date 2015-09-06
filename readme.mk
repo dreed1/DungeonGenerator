@@ -17,7 +17,7 @@ Here's basically how it works:
 
 
 
-Here's a random generation of a 100x100 map:
+Here's a random generation of a 60x60 map, you could use it to make a tiled map:
 ```
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXX  XXX  X     XX X X XX XX  X  XXXXXXX     X  XX  XXXX
