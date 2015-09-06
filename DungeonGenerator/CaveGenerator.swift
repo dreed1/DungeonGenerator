@@ -29,7 +29,7 @@ class CaveGenerator: NSObject {
   make a dummy map and print it to console
   */
   func genDemoMap() {
-    self.generateProceduralCave(100, height: 100, percentageOfWalls: 48, numberOfGenerations: 9)
+    self.generateProceduralCave(60, height: 60, percentageOfWalls: 48, numberOfGenerations: 9)
   }
   
   func generateProceduralCave(width: Int, height: Int, percentageOfWalls: UInt32, numberOfGenerations: Int) {
